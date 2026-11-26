@@ -6,7 +6,7 @@
     <path d="M716 52l6 6-6 6M705 58h16"/>
   </g>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR','Apple SD Gothic Neo',sans-serif">
-    <text x="104" y="53" fill="#f0f6fc" font-size="20" font-weight="600">교재와 논문 노트</text>
-    <text x="104" y="79" fill="#9198a1" font-size="14">로봇·제어, VLA, 프로그래밍 학습 자료</text>
+    <text x="104" y="53" fill="#f0f6fc" font-size="20" font-weight="600">Learning Notes</text>
+    <text x="104" y="79" fill="#9198a1" font-size="14">Robotics, control, VLA &amp; programming</text>
   </g>
 </svg>
