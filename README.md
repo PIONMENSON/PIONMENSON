@@ -2,7 +2,7 @@
 
 I study robot manipulation and robot learning at Sungkyunkwan University. My interests include visual and tactile perception, vision-language-action (VLA) models, and efficient training and inference with neural processing units (NPUs).
 
-[Email](mailto:yhj0971@gmail.com) · [Research papers](https://textbook-hub.vercel.app/#research) · [Learning notes](https://textbook-hub.vercel.app/)
+[Website](https://pionmenson.github.io/) · [Email](mailto:yhj0971@gmail.com) · [Research papers](https://textbook-hub.vercel.app/#research) · [Learning notes](https://textbook-hub.vercel.app/)
 
 ## Selected Research
 
