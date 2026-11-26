@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="116" viewBox="0 0 760 116" fill="none">
+  <rect x="0.5" y="0.5" width="759" height="115" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
+  <rect x="24" y="30" width="56" height="56" rx="8" fill="#f6f8fa"/>
+  <g stroke="#24292f" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 46v25M52 48c-5-3-10-3-15-1v23c5-2 10-2 15 1 5-3 10-3 15-1V47c-5-2-10-2-15 1Z"/>
+    <path d="M716 52l6 6-6 6M705 58h16"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR','Apple SD Gothic Neo',sans-serif">
+    <text x="104" y="53" fill="#1f2328" font-size="20" font-weight="600">교재와 논문 노트</text>
+    <text x="104" y="79" fill="#59636e" font-size="14">로봇·제어, VLA, 프로그래밍 학습 자료</text>
+  </g>
+</svg>
