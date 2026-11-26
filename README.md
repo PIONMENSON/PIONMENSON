@@ -1,22 +1,29 @@
-# 윤효준 · Hyojun Yun
+# Hyojun Yun
 
-로봇 매니퓰레이션과 로봇 학습을 연구합니다.
-시각·촉각을 이용한 물체 인식과 파지, VLA 모델의 학습, NPU를 활용한 로봇 모델 실행과 학습 가속을 다룹니다.
+I study robot manipulation and robot learning at Sungkyunkwan University. My interests include visual and tactile perception, vision-language-action (VLA) models, and efficient training and inference with neural processing units (NPUs).
 
-## 교재와 논문 노트
+[Email](mailto:yhj0971@gmail.com) · [Research papers](https://textbook-hub.vercel.app/#research) · [Learning notes](https://textbook-hub.vercel.app/)
 
-공부하며 정리한 로봇·제어, VLA, 프로그래밍 자료를 모았습니다.
+## Selected Research
+
+**NPU Offloading of a Frozen Visual Encoder for Robot Policy Training**
+
+A training pipeline that runs a frozen visual encoder on an NPU while training the action module on a GPU.
+
+[Project page](https://textbook-hub.vercel.app/npu-offload/) · [Paper (PDF)](https://textbook-hub.vercel.app/npu-offload/paper.pdf)
+
+## Learning Notes
+
+My study notes and interactive exercises on robotics, control, VLA models, and programming. The explanations are primarily in Korean.
 
 <a href="https://textbook-hub.vercel.app/">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-light.svg">
-    <img src="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-light.svg" width="760" alt="교재와 논문 노트 열기 — 로봇·제어, VLA, 프로그래밍 학습 자료">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-mobile-dark.svg?v=20261126-en">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-mobile-light.svg?v=20261126-en">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-dark.svg?v=20261126-en">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-light.svg?v=20261126-en">
+    <img src="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-light.svg?v=20261126-en" width="760" alt="Open learning notes on robotics, VLA, and programming">
   </picture>
 </a>
 
-[로봇·제어](https://textbook-hub.vercel.app/?topic=robot) · [VLA](https://textbook-hub.vercel.app/?topic=vla) · [프로그래밍](https://textbook-hub.vercel.app/?topic=cs)
-
-연락: [yhj0971@gmail.com](mailto:yhj0971@gmail.com)
+[Robotics & Control](https://textbook-hub.vercel.app/?topic=robot) · [VLA](https://textbook-hub.vercel.app/?topic=vla) · [Programming](https://textbook-hub.vercel.app/?topic=cs)
