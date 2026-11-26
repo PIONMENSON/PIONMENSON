@@ -9,6 +9,8 @@
 
 <a href="https://textbook-hub.vercel.app/">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-light.svg">
     <img src="https://raw.githubusercontent.com/PIONMENSON/PIONMENSON/main/assets/notes-light.svg" width="760" alt="교재와 논문 노트 열기 — 로봇·제어, VLA, 프로그래밍 학습 자료">
