@@ -6,7 +6,15 @@ I study robot manipulation and robot learning at Sungkyunkwan University. My int
 
 ## Selected Research
 
-**NPU Offloading of a Frozen Visual Encoder for Robot Policy Training**
+### Tactile Encoders for Vision-Language-Action Models in Occluded Manipulation
+
+Master's thesis research · RISE Lab, Sungkyunkwan University
+
+SmolVLA-Touch uses fingertip tactile signals and joint history to estimate object pose and insertion state. A fast tactile path corrects action chunks as contact changes during insertion, even when the work area is hidden from the cameras.
+
+[Research overview](https://pionmenson.github.io/#masters-research)
+
+### NPU Offloading of a Frozen Visual Encoder for Robot Policy Training
 
 A training pipeline that runs a frozen visual encoder on an NPU while training the action module on a GPU.
 
