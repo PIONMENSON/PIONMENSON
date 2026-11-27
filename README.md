@@ -16,7 +16,7 @@ SmolVLA-Touch uses fingertip tactile signals and joint history to estimate objec
 
 ### NPU Offloading of a Frozen Visual Encoder for Robot Policy Training
 
-A training pipeline that runs a frozen visual encoder on an NPU while training the action module on a GPU.
+An asynchronous training pipeline that runs a frozen visual encoder on an NPU while training the action module on a GPU. The arXiv preprint reports lower accelerator-board energy per sample, with longer training time and lower policy success rates than GPU-only training.
 
 [Project page](https://textbook-hub.vercel.app/npu-offload/) · [Paper (PDF)](https://textbook-hub.vercel.app/npu-offload/paper.pdf)
 
