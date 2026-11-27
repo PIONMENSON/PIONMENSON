@@ -12,7 +12,7 @@ Master's thesis research · RISE Lab, Sungkyunkwan University
 
 SmolVLA-Touch uses fingertip tactile signals and joint history to estimate object pose and insertion state. A fast tactile path corrects action chunks as contact changes during insertion, even when the work area is hidden from the cameras.
 
-[Research overview](https://pionmenson.github.io/#masters-research) · [Slides (PDF, Korean)](https://pionmenson.github.io/papers/tactile-vla-presentation.pdf)
+[Research overview](https://pionmenson.github.io/#masters-research) · [Slides (PDF, English)](https://pionmenson.github.io/papers/tactile-vla-presentation.pdf?v=20261127-en)
 
 ### NPU Offloading of a Frozen Visual Encoder for Robot Policy Training
 
